@@ -9,6 +9,8 @@ def hello_world():
 # Add the login route with a simple text response
 # Add the register route with a simple text response
 # Add the deposit route with a simple text response 
+# Add the withdrawal route with a simple text response 
+
 
 if __name__ == '__main__':
    app.run()
