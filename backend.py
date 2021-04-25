@@ -22,7 +22,7 @@ def deposit():
    return 'Add money to wallet'
 
 # Add the withdrawal route with a simple text response 
-@app.route('withdraw')
+@app.route('/withdraw')
 def withdraw():
    return 'withdraw from wallet'
 
